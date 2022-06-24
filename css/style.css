@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+* {
+    border: none;
+    margin: 0 auto;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(240, 219, 219);
+
+}
+
+.header-p {
+    font-size: 1.4em;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    max-width: 1500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.mito-div {
+    margin-top: 40px;
+    width: 90%;
+}
+.bolso-img {
+    display: flex;
+
+}
